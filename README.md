@@ -1,4 +1,4 @@
-# Assignment 2: Mini RAG Bot – PDF Q&A
+# Mini RAG Bot – PDF Q&A
 
 ## 📌 Task
 
